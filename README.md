@@ -1,5 +1,7 @@
 # Change color
 
+Open to PRs
+
 <img src='https://raw.githubusercontent.com/nullstack/nullstack/master/nullstack.png' height='60' alt='Nullstack' />
 
 ## How to run this Project
