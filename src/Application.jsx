@@ -9,20 +9,10 @@ class Application extends Nullstack {
     page.locale = 'en-US'
   }
 
-  renderHead() {
-    return (
-      <head>
-        <link href="https://fonts.gstatic.com" rel="preconnect" />
-        <link href="https://fonts.googleapis.com/css2?family=Crete+Round&family=Roboto&display=swap" rel="stylesheet" />
-      </head>
-    )
-  }
-
   render() {
     return (
       <body>
-        <Head />
-        <Home route="/" greeting="Welcome to Nullstack!" />
+        <Home route="/"/>
       </body>
     )
   }
